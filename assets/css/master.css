@@ -8,9 +8,9 @@
   color: #fff;
 }
 
-.centerise{
-  text-align: center;
-  padding-bottom: 2.5%;
+h1{
+  padding-top: 2.5%;
+  padding-bottom: 1.5%;
 }
 
 .top{
@@ -37,6 +37,10 @@
   color: #4b5f9e;
 }
 
+#slack:hover{
+  color: #ffcc13;
+}
+
 #github:hover{
   color: white;
 }
@@ -55,7 +59,7 @@
   color: #ff0404;
 }
 
-#foote{
+.foote{
   list-style-type: none;
   font-size: 1.2em;
 }
